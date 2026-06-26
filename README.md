@@ -1,4 +1,4 @@
-# AI 免杀技术套件 (AI AV Evasion Skill)
+#  免杀技术套件skills ( AV Evasion Skill)
 
 **作者：bluechips**
 **版本：V4.0**
