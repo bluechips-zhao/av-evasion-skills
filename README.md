@@ -323,13 +323,16 @@ python shellcode-obfuscate-ipv4.py <shellcode_file>
 
 ---
 
-## 技术参考
+## 赞赏码
 
-- 免杀技术原理与实践
-- AI 在网络安全中的应用
-- 现代 EDR 检测机制分析
-- Windows PE 结构与 Section 操作
-- Module Stomping 技术研究
+如果这个项目帮你节省了一些时间，了解了一些技术，欢迎打赏支持 ❤️
+
+你的支持是我持续维护和更新的动力。
+每一份鼓励都很珍贵，谢谢！
+
+💰 赞赏码见下方
+
+![](D:\down\图片.png)
 
 ---
 
