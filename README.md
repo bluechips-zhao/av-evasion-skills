@@ -330,9 +330,9 @@ python shellcode-obfuscate-ipv4.py <shellcode_file>
 你的支持是我持续维护和更新的动力。
 每一份鼓励都很珍贵，谢谢！
 
-💰 赞赏码见下方
+💰 赞赏码见下方链接
 
-![BQACAgUAAyEGAASHRsPbAAEWSNFqQdOImsipjrg1G9zaEPpY-jWrLwACQyIAAv6GEFZZKwaPLCxW2jwE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEWSNFqQdOImsipjrg1G9zaEPpY-jWrLwACQyIAAv6GEFZZKwaPLCxW2jwE.png)
+https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEWSRFqQdZ84zinoByzmBI3yShdjaWbAQACnyIAAv6GEFbeygfRJhnU9zwE.png
 
 
 
