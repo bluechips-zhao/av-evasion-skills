@@ -332,7 +332,10 @@ python shellcode-obfuscate-ipv4.py <shellcode_file>
 
 💰 赞赏码见下方
 
-![](D:\down\图片.png)
+![BQACAgUAAyEGAASHRsPbAAEWSNFqQdOImsipjrg1G9zaEPpY-jWrLwACQyIAAv6GEFZZKwaPLCxW2jwE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEWSNFqQdOImsipjrg1G9zaEPpY-jWrLwACQyIAAv6GEFZZKwaPLCxW2jwE.png)
+
+
+
 
 ---
 
