@@ -337,15 +337,6 @@ https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEWSRFqQdZ84zinoByzmBI3yShdja
 
 
 
-## Star History
-
-<a href="https://www.star-history.com/?repos=bluechips-zhao%2Fav-evasion-skills&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bluechips-zhao/av-evasion-skills&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bluechips-zhao/av-evasion-skills&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bluechips-zhao/av-evasion-skills&type=date&legend=top-left" />
- </picture>
-</a>
 
 
 **作者：bluechips**
