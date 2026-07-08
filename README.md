@@ -118,16 +118,16 @@ av-evasion-skills-main/
       │
       ▼
 ┌─────────────────┐
-│  shellcode-patch │  同义指令替换（破坏字节特征）
+│ shellcode-patch │  同义指令替换（破坏字节特征）
 └────────┬────────┘
          ▼
 ┌─────────────────┐
-│ shellcode-encrypt│  XOR 加密 (自定义密钥)
+│shellcode-encrypt│  XOR 加密 (自定义密钥)
 └────────┬────────┘
          ▼
 ┌─────────────────────┐
-│ shellcode-obfuscate  │  IPv4 地址混淆
-│      -ipv4           │
+│shellcode-obfuscate  │  IPv4 地址混淆
+│     -ipv4           │
 └────────┬────────────┘
          ▼
    IPv4 数组 (C 格式)
