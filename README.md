@@ -361,6 +361,16 @@ https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEWSRFqQdZ84zinoByzmBI3yShdja
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=bluechips-zhao%2Fav-evasion-skills&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bluechips-zhao/av-evasion-skills&type=date&theme=dark&legend=top-left&sealed_token=-933uK8RL0cf9jZWvfKwr8xpXM3-FMZIc13MQ2OzBwmGpD3Ry4LsdRyXsVLEoSTNzHd-bULFlCixHwq4n8IpVIkhSPjtnrrlyb-oAYtpFc0otM_kCBKLvA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bluechips-zhao/av-evasion-skills&type=date&legend=top-left&sealed_token=-933uK8RL0cf9jZWvfKwr8xpXM3-FMZIc13MQ2OzBwmGpD3Ry4LsdRyXsVLEoSTNzHd-bULFlCixHwq4n8IpVIkhSPjtnrrlyb-oAYtpFc0otM_kCBKLvA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bluechips-zhao/av-evasion-skills&type=date&legend=top-left&sealed_token=-933uK8RL0cf9jZWvfKwr8xpXM3-FMZIc13MQ2OzBwmGpD3Ry4LsdRyXsVLEoSTNzHd-bULFlCixHwq4n8IpVIkhSPjtnrrlyb-oAYtpFc0otM_kCBKLvA" />
+ </picture>
+</a>
+
 **作者：bluechips**
 **版本：V4.1**
 **最后更新：2026-07-07**
