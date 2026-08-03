@@ -367,3 +367,6 @@ https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEWSRFqQdZ84zinoByzmBI3yShdja
 **版本：V4.1**
 **最后更新：2026-07-07**
 **测试环境：Windows 10/11 Pro x64**
+<img width="2555" height="1240" alt="image" src="https://github.com/user-attachments/assets/6a878389-762e-45bc-b6d1-0bbd8fa074d2" />
+<img width="2560" height="1248" alt="image" src="https://github.com/user-attachments/assets/efed30e9-12d2-4d05-997c-299ffa052713" />
+
